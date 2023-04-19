@@ -1,6 +1,6 @@
 pipeline {
      environment {
-       IMAGE_NAME = "alpinehelloworld"
+       IMAGE_NAME = "eazy-alpinehelloworld"
        IMAGE_TAG = "latest"
        STAGING = "mackrizo-staging"
        PRODUCTION = "mackrizo-production"
