@@ -1,4 +1,4 @@
 # alpinehelloworld
 An Alpine-based Docker example By EAZYTraining
 
-https://613d-188-188-182-97.ngrok-free.app/
+[![Build Status](http://192.168.1.13:8080/buildStatus/icon?job=alpinehelloworld)](http://192.168.1.13:8080/job/alpinehelloworld/)
