@@ -1,5 +1,5 @@
-/* import sharde library */
-@Library('shared-library')
+/* import sharde library 
+@Library('shared-library')*/
 
 pipeline {
      environment {
@@ -93,7 +93,7 @@ pipeline {
      post{
           always{
                script {
-                    slackNotifier  currentBuild.result
+                    /*slackNotifier  currentBuild.result*/
                }
           }
      }
