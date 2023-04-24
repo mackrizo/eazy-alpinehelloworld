@@ -1,5 +1,5 @@
-/* import sharde library 
-@Library('shared-library')*/
+// import shared library 
+// @Library('shared-library')  -->> Deprecated
 library('shared-library')
 
 pipeline {
