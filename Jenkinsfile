@@ -1,5 +1,6 @@
 /* import sharde library 
 @Library('shared-library')*/
+library('shared-library')
 
 pipeline {
      environment {
